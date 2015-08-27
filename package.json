@@ -1,0 +1,15 @@
+{
+  "title": "Share on Twitter",
+  "name": "tweetright",
+  "version": "0.50.0",
+  "description": "Simplest add-on for Twitter. Share web pages, links, selected text and image links on Twitter right from the context menu and the toolbar button.",
+  "main": "index.js",
+  "author": "Arpit Kumar",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "id": "jid1-SmvuJ9Cq3Cx13w@jetpack",
+  "icon": "icon.png",
+  "homepage": "http://browsernative.com/extensions/"
+}
